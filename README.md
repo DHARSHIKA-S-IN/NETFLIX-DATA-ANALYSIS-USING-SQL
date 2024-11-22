@@ -1,7 +1,24 @@
 # NETFLIX-DATA-ANALYSIS-USING-SQL
 
-INTRODUCTION
-Netflix has become one of the world’s leading entertainment platforms, offering a vast collection of movies and TV shows to millions of subscribers across the globe. Its library spans multiple genres, ratings, and production origins, catering to diverse audience preferences. As the streaming industry becomes increasingly competitive, analyzing Netflix's content catalog provides valuable insights into its strategy, growth patterns, and areas for improvement.
-Understanding how Netflix structures and curates its library is crucial for evaluating its position in the market. For instance, identifying the most common genres or countries contributing to its content can reveal its target demographics. Similarly, exploring the frequency of TV shows versus movies provides insights into Netflix's focus on episodic versus long-form storytelling.
-This report leverages data from a publicly available Netflix dataset sourced from Kaggle. The dataset contains essential metadata, such as the type of content (Movies or TV Shows), genres, release years, countries of origin, directors, cast members, ratings, and more. By addressing 15 specific questions, this analysis aims to uncover trends, patterns, and unique characteristics of Netflix's offerings.
-The insights derived from this report can aid in understanding content diversity, identifying popular creators and actors, and evaluating Netflix’s efforts to cater to global audiences. Additionally, it provides a foundation for Netflix to enhance its data-driven content recommendations and further optimize its library for user engagement. The questions analyzed here represent common challenges and strategic decision points that can guide future content curation, licensing, and marketing initiatives.
+![netflix](https://github.com/user-attachments/assets/c2bc0d40-4afc-42b7-8a39-e411163e426a)
+
+## INTRODUCTION
+
+Netflix is a leading global entertainment platform with a vast library of movies and TV shows across various genres and regions. As the streaming industry grows competitive, analyzing Netflix's content catalog offers insights into its strategy, audience, and market position. This report uses data from a publicly available Netflix dataset on Kaggle, examining factors like content type, genres, release years, and ratings. By answering 15 key questions, the analysis uncovers trends in content diversity, popular creators, and audience preferences. These insights can inform Netflix's content curation, licensing, and marketing strategies, improving user engagement and recommendations.
+
+## Objectives 
+
+The goal of this analysis is to optimize Netflix's content strategy using data-driven insights to:
+ ~Improve content offerings across regions and genres.
+ ~Understand audience preferences and engagement.
+ ~Guide investment decisions in genres, countries, and content types.
+This will support informed decisions in content acquisition, production, and regional strategies.
+
+## Problem Statement
+
+With rising competition in the streaming industry, Netflix must continuously optimize its content library to meet global audience preferences. Analyzing content distribution, popular genres, and viewer ratings is key to enhancing user satisfaction and retention. This analysis addresses critical questions about Netflix's offerings, helping to identify trends and opportunities for a competitive
+
+## Dataset
+
+The data for this project is sourced from the Kaggle dataset:
+Dataset Link: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
