@@ -1,0 +1,43 @@
+Based on the Netflix dataset you provided, which includes information on movies and TV shows available on Netflix (such as show ID, type, title, director, cast, country, release year, rating, duration, listed genres, and description), here are 10 KPIs that can be derived from this dataset for the interactive dashboard:
+
+1. Content Type Distribution (Movies vs. TV Shows)
+Description: The ratio of movies to TV shows in the dataset.
+Purpose: Helps understand Netflix’s content mix between long-form (TV Shows) and short-form (Movies) content.
+
+2. Top Genres by Count
+Description: The most frequent genres present in Netflix’s content catalog.
+Purpose: To identify which genres are dominant in the catalog and align content acquisition or production accordingly.
+
+3. Content Availability by Country
+Description: The number of movies and TV shows available per country.
+Purpose: Helps in understanding content distribution globally and regional content preferences.
+
+4. Content Release Year Distribution
+Description: The number of shows and movies released each year.
+Purpose: Identifies trends in content release over time and helps assess Netflix's growth in content offerings.
+
+5. Average Movie Duration
+Description: The average runtime of movies on Netflix.
+Purpose: Provides insights into Netflix’s movie duration trends and viewer preferences for movie length.
+
+6. Top Directors and Actors
+Description: The most frequent directors and actors involved in Netflix’s content.
+Purpose: Identifies key talent associated with popular content and helps in targeting successful creators for future content.
+
+7. Content Rating Distribution
+Description: The distribution of ratings across Netflix content (e.g., PG, TV-MA, R, etc.).
+Purpose: Shows the content distribution based on audience appropriateness, helping Netflix target specific user demographics.
+
+8. Content Added Over Time
+Description: Tracks the number of movies and TV shows added to Netflix per year or month.
+Purpose: Helps Netflix assess the pace of content expansion over time and plan for future content releases.
+
+9. Top 5 Most Popular Countries for Content Production
+Description: The top countries contributing the most movies and TV shows to Netflix.
+Purpose: Provides insights into global content production and highlights important regional markets.
+
+10. Average Number of Seasons (TV Shows Only)
+Description: The average number of seasons for TV shows on Netflix.
+Purpose: Helps assess the longevity and episodic nature of TV shows available on Netflix, which can inform content planning.
+
+These KPIs can be calculated directly from the dataset, offering valuable insights into Netflix’s content library, engagement trends, and global strategy. They can help inform decisions related to content curation, acquisition, regional expansion, and audience targeting.
